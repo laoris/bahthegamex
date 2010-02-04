@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BahTheGame", "BahTheGame\BahTheGame.csproj", "{CA0D4CAD-B1A4-4B12-925C-8A1ABD698337}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0D4CAD-B1A4-4B12-925C-8A1ABD698337}.Debug|x86.ActiveCfg = Debug|x86
+		{CA0D4CAD-B1A4-4B12-925C-8A1ABD698337}.Debug|x86.Build.0 = Debug|x86
+		{CA0D4CAD-B1A4-4B12-925C-8A1ABD698337}.Release|x86.ActiveCfg = Release|x86
+		{CA0D4CAD-B1A4-4B12-925C-8A1ABD698337}.Release|x86.Build.0 = Release|x86
+		{E89406C7-89E1-4199-AD27-1CA33FE2D427}.Debug|x86.ActiveCfg = Debug|x86
+		{E89406C7-89E1-4199-AD27-1CA33FE2D427}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
